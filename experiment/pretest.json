@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which material is used in connecting rod?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Steel",
+        "b": "Tin",
+        "c": "Medium carbon steel",
+        "d": "Tungsten"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which force is experienced by connecting rod?",
+      "answers": {
+        "a": "Stress",
+        "b": "Torsion",
+        "c": "Moment",
+        "d": "Inertia force"
       },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The connecting rod is manufactured using which process?",
+      "answers": {
+        "a": "Drop forging",
+        "b": "Slip casting",
+        "c": "Welding",
+        "d": "Die casting"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The rod that transmits reciprocating motion to rotary motion is known as?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Camshaft",
+        "b": "Connecting rod",
+        "c": "Crankshaft",
+        "d": "Piston"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the basic function of the connecting rod?",
+      "answers": {
+        "a": "To transmit force from piston to crankshaft",
+        "b": "To transmit rotary motion from the piston to the crankshaft",
+        "c": "To transmit oscillation from piston to crankshaft",
+        "d": "To transmit force from piston to piston pin"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
