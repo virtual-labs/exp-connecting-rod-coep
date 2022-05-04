@@ -2,7 +2,7 @@
 
 ### Background:-
 **Simple pendulum** : A bob attached to a thread or string hanging from a pivot constitutes a simple pendulum. As the size of the bob is small compared to the length of the thread, the mass of the bob can be considered to be concentrated at its centre and treated as a point mass. The mass of the thread is very small compared to that of the bob, it is neglected. Also, the thread is considered inelastic and inextensible and effects due to these properties are neglected while studying the oscillations of the bob about the pivot. Thus, the bob oscillates about the pivot when disturbed from its equilibrium position and left to its own. The period of such oscillations is given by <img src="images/img1.png"  title="" >
-<img src="images/img2.gif"  title="" >
+<img src="images/img 2.gif"  title="" >
 These oscillations are undamped natural vibration of the simple pendulum. Physical systems like a swing in children's park, load hanging from a cable of a crane, can be modelled as simple pendulum.
 **Compound Pendulum** : Consider the oscillations of a solid body about the point of suspension 'O' (pivot) as shown in the figure. <img src="images/img3.png" title="" >
 <img src="images/img4.jpg" title="" >
