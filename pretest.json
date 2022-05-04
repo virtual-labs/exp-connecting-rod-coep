@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which material is used in connecting rod?",
+      "answers": {
+        "a": "Steel",
+        "b": "Tin",
+        "c": "Medium carbon steel",
+        "d": "Tungsten"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which force is experienced by connecting rod?",
+      "answers": {
+        "a": "Stress",
+        "b": "Torsion",
+        "c": "Moment",
+        "d": "Inertia force"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The connecting rod is manufactured using which process?",
+      "answers": {
+        "a": "Drop forging",
+        "b": "Slip casting",
+        "c": "Welding",
+        "d": "Die casting"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The rod that transmits reciprocating motion to rotary motion is known as?",
+      "answers": {
+        "a": "Camshaft",
+        "b": "Connecting rod",
+        "c": "Crankshaft",
+        "d": "Piston"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the basic function of the connecting rod?",
+      "answers": {
+        "a": "To transmit force from piston to crankshaft",
+        "b": "To transmit rotary motion from the piston to the crankshaft",
+        "c": "To transmit oscillation from piston to crankshaft",
+        "d": "To transmit force from piston to piston pin"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
