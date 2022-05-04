@@ -1,22 +1,22 @@
 ### Theory
 
 ### Background:-
-**Simple pendulum** : A bob attached to a thread or string hanging from a pivot constitutes a simple pendulum. As the size of the bob is small compared to the length of the thread, the mass of the bob can be considered to be concentrated at its centre and treated as a point mass. The mass of the thread is very small compared to that of the bob, it is neglected. Also, the thread is considered inelastic and inextensible and effects due to these properties are neglected while studying the oscillations of the bob about the pivot. Thus, the bob oscillates about the pivot when disturbed from its equilibrium position and left to its own. The period of such oscillations is given by <img src="images/img1.png"  title="" >
-<img src="images/img 2.gif"  title="" >
-These oscillations are undamped natural vibration of the simple pendulum. Physical systems like a swing in children's park, load hanging from a cable of a crane, can be modelled as simple pendulum.
-**Compound Pendulum** : Consider the oscillations of a solid body about the point of suspension 'O' (pivot) as shown in the figure. <img src="images/img3.png" title="" >
-<img src="images/img4.jpg" title="" >
-The pivot is at point O and the centre of mass of the body is at G. Let the distance between the pivot and the centre of mass of the body be L. When the body is displaced from its equilibrium position and left to its own, it oscillates about O. Such an arrangement is called compound pendulum. Unlike simple pendulum, the mass is distributed all along the length of the oscillating body and takes part in the oscillations. Equation of motion of the compound pendulum is derived by taking moments of the inertia-force and force due to gravity about the pivot 'O' and is given by <img src="images/img5.gif" title="" >
+**Simple pendulum** : A bob attached to a thread or string hanging from a pivot constitutes a simple pendulum. As the size of the bob is small compared to the length of the thread, the mass of the bob can be considered to be concentrated at its centre and treated as a point mass. The mass of the thread is very small compared to that of the bob, it is neglected. Also, the thread is considered inelastic and inextensible and effects due to these properties are neglected while studying the oscillations of the bob about the pivot. Thus, the bob oscillates about the pivot when disturbed from its equilibrium position and left to its own. The period of such oscillations is given by <br> <img src="images/img1.png"  title="" >\
+<img src="images/img 2.gif"  title="" >\
+These oscillations are undamped natural vibration of the simple pendulum. Physical systems like a swing in children's park, load hanging from a cable of a crane, can be modelled as simple pendulum. <br><br>
+**Compound Pendulum** : Consider the oscillations of a solid body about the point of suspension 'O' (pivot) as shown in the figure.<br> <img src="images/img3.png" title="" ><br>
+<img src="images/img4.jpg" title="" ><br>
+The pivot is at point O and the centre of mass of the body is at G. Let the distance between the pivot and the centre of mass of the body be L. When the body is displaced from its equilibrium position and left to its own, it oscillates about O. Such an arrangement is called compound pendulum. Unlike simple pendulum, the mass is distributed all along the length of the oscillating body and takes part in the oscillations. Equation of motion of the compound pendulum is derived by taking moments of the inertia-force and force due to gravity about the pivot 'O' and is given by <br><img src="images/img5.gif" title="" ><br>
 
-Where, J0, M, and θ are respectively the mass moment of inertia of the oscillating body about the pivot, total mass of the oscillating body, and angle of oscillation (angle between the line OG while oscillating and the vertical position of equilibrium).  The period of oscillation of a compound pendulum is obtained from solution of above equation and is given by,<img src="images/img6.gif" title="" >
+Where, J0, M, and θ are respectively the mass moment of inertia of the oscillating body about the pivot, total mass of the oscillating body, and angle of oscillation (angle between the line OG while oscillating and the vertical position of equilibrium).  The period of oscillation of a compound pendulum is obtained from solution of above equation and is given by,<br><img src="images/img6.gif" title="" ><br>
 
-(Period of oscillation = Time required to complete one oscillation)
-<img src="images/img6.gif" title="" >
-Mass moment of inertia about the centre of mass, 'G', is given by <img src="images/img7.gif" title="" >
+(Period of oscillation = Time required to complete one oscillation)<br>
+<img src="images/img6.gif" title="" ><br>
+Mass moment of inertia about the centre of mass, 'G', is given by <br><img src="images/img7.gif" title="" ><br>
 
 
 **Mass Moment of Inertia** : Moment of a point mass m about another point or a line is given by the product of the mass m and distance between another point or perpendicular distance between the line and location of the mass.  For a solid body, its mass is distributed all over its volume.  So when we want to calculate its mass moment of inertia about a point, every elemental mass of the body is at different distance from the point about which we want to take its moment.  So we resort to use of calculus and find the mass moment of the body by integrating the product of the elemental mass and its square of its distance from the another point under consideration.  Another point of consideration is usually the centre of gravity of the body itself and we find the mass moment of inertia of the body about its own centre of gravity.  Thus for a slender rod, which can be considered as one-dimensional body, the mass moment about its centre of gravity is given by,                                                                                                                    
-<img src="images/img8.gif" title="" >
+<img src="images/img8.gif" title="" ><br><br>
 <img src="images/img9.jpg" title="" >
 
 Similarly, we can find mass moment of inertia for a two or three dimensional solids using double or triple integration. However, finding mass moment of inertia of solids using analytical expressions as above is possible only for solids of regular geometry like a cylinder and sphere. For solids of irregular geometry like a connecting rod or any link use in a mechanism of any machine, the analytical method cannot be used and we need to use an experimental method as discussed in the present experiment.
@@ -61,9 +61,10 @@ When the vibratory system has elements that offer resistance to motion, energy i
 The oscillations of such tall buildings, in response to earthquake and wind, are important from design point of view.  And to study these oscillations, we must know the characteristics of its natural vibration. 
 
 Analysis of such a physical system can be very much complicated.  To obtain first rough estimate of the natural frequency of vibration, the problem can be stated and the physical system can be modeled in a simple way as described below.</td>
-
+ </tr><tr>
 <td>Problem statement</td><td colspan="2">To find natural frequency of oscillation of the tower in the direction perpendicular to the vertical axis (i.e. natural frequency of transverse oscillation of the tower) and position of the head at any given time.</td>
-<td>Physical model of the system</td><td><img src="images/img10.gif" title="" /></td><td>The physical model for the system under consideration can be as shown in This is the simplest model.  Only the mass of the building at the top is considered and it is considered to be concentrated at one point.  The mass of the vertical pillar supporting the buiding is neglected and is considered to be a cantilever offering only elesticity.
+ </tr><tr>
+ <td>Physical model of the system</td><td><img src="images/img10.JPG" height="200px" width="200px" title="" /></td><td>The physical model for the system under consideration can be as shown in This is the simplest model.  Only the mass of the building at the top is considered and it is considered to be concentrated at one point.  The mass of the vertical pillar supporting the buiding is neglected and is considered to be a cantilever offering only elesticity.
 
 Thus it becomes a single degree of freedom system with single mass and only one way of motion of the mass: translation in direction perpendicular to the vertical axis of the building.  Further we assume that the amplitude of this motion to be small.
 
