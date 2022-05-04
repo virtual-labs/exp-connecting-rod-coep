@@ -1,37 +1,63 @@
 {
   "version": 2.0,
-  "questions": [
+  "questions": [    
     {
-      "question": "This is a Sample Question 1?",
+      "question": "How many percent of carbon is present in medium carbon steel?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "5% to 10%",
+        "b": "0.35% to 0.45%",
+        "c": "0.73% to 0.85%",
+        "d": "20% to 30%"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },	
+    {
+      "question": "The piston is connected to which end of the connecting rod?",
+      "answers": {
+        "a": "Shank",
+        "b": "Big end",
+        "c": "Edge of shank",
+        "d": "Small end"
       },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The crankshaft is connected to which end of the connecting rod?",
+      "answers": {
+        "a": "Edge of shank",
+        "b": "Small end",
+        "c": "Big end",
+        "d": "Shank"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The part that connects the small end and the big end of the connecting rod is known as ______",
+      "answers": {
+        "a": "Shank",
+        "b": "Cap",
+        "c": "big end",
+        "d": "small end"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "For what purpose rifle hole is drilled in connecting rod?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cooling",
+        "b": "Combustion",
+        "c": "Lubrication",
+        "d": "Diffusion"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
